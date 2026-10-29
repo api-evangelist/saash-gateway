@@ -64,7 +64,7 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SAASH is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+SAASH provides a bilingual Saudi government, business, legal, and workforce service discovery platform. It offers a unified gateway for agents to access Saudi governmental services, business registration, legal compliance, and workforce management in both Arabic and English. The platform aggregates various official Saudi APIs, presenting them through a single interface while emphasizing privacy and non-execution of government functions.
 
 **Areas:** Company
 
@@ -72,15 +72,69 @@ SAASH is a company surfaced via the API Evangelist harvest backlog (source: new-
 
 Everything profiled for SAASH is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/saash-gateway/](https://apis.io/providers/saash-gateway/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [SAASH Agent Connector](https://apis.io/apis/saash-gateway/saash-agent-connector/) — Open GROW discovery, deterministic Arabic/English resolution, provider-aligned accountless non-effect invocation across Legal, Workforce, Business and…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Saash Gateway Domain Security](https://apis.io/security/saash-gateway/saash-gateway-domain-security/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://saash-gateway.vercel.app)
+- [API reference](https://saash-gateway.vercel.app/openapi.json)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/saash-gateway/](https://apis.io/providers/saash-gateway/).
+**Kin Score 5.4** — minimal · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 0.0 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/saash-gateway/](https://apis.io/providers/saash-gateway/).
 
 ## How this profile is made
 
